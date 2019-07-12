@@ -2,6 +2,8 @@
 
 using namespace std;
 
+
+//some thing
 int main()
 {
 	cout<<"hello world!"<<endl;
